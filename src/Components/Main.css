@@ -1,0 +1,39 @@
+.anime-card {
+  display: grid;
+  grid-template-columns: auto 1fr 1fr auto;
+}
+
+.anime-card-image {
+    display: flex;
+    grid-column: span 1;
+}
+
+.anime-card-title {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    grid-column: span 1;
+}
+
+.anime-card-score {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    grid-column: span 1;
+}
+
+.anime-card-score div {
+    display: flex;
+    flex-direction: row;
+}
+
+.anime-card-description {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    grid-column: span 1;
+}
