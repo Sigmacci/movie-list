@@ -1,6 +1,6 @@
 .anime-card {
-  display: grid;
-  grid-template-columns: auto 1fr 1fr auto auto;
+    display: grid;
+    grid-template-columns: 80px 1fr 1fr 110px 60px;
 }
 
 .anime-card-image {
