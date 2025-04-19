@@ -1,6 +1,6 @@
 .anime-card {
   display: grid;
-  grid-template-columns: auto 1fr 1fr auto;
+  grid-template-columns: auto 1fr 1fr auto auto;
 }
 
 .anime-card-image {
@@ -34,6 +34,15 @@
     padding-left: 20px;
     display: flex;
     flex-direction: column;
+    text-align: start;
+    grid-column: span 1;
+}
+
+.anime-card-controls {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: start;
     grid-column: span 1;
 }

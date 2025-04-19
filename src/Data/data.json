@@ -1,0 +1,153 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Cowboy Bebop",
+            "description": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys\". The ragtag team aboard the spaceship Bebop are two such individuals.\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little. \nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n(Source: MAL Rewrite)",
+            "image": "https://media.kitsu.app/anime/poster_images/1/small.jpg",
+            "rating": 9,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-Fi",
+                "Space"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Death Note",
+            "description": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.\n\nHigh school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be.\n\nWith this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L.\n\n(Source: MAL Rewrite).",
+            "image": "https://media.kitsu.app/anime/poster_images/1376/small.jpg",
+            "rating": 9,
+            "genres":[
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "description": "\"In order for something to be obtained, something of equal value must be lost.\"\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n\n(Source: MAL Rewrite)",
+            "image": "https://media.kitsu.app/anime/poster_images/3936/small.jpg",
+            "rating": 10,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Attack on Titan",
+            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
+            "image": "https://media.kitsu.app/anime/poster_images/7442/small.jpg",
+            "rating": 9,
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Shounen",
+                "Super Power",
+                "Military"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Tokyo Ghoul:re",
+            "description": "Haise Sasaki has been tasked with teaching Qs Squad how to be outstanding investigators, but his assignment is complicated by the troublesome personalities of his students and his own uncertain grasp of his Ghoul powers. Can he pull them together as a team, or will Qs Squad first assignment be their last?\n\n(Source: Crunchyroll)",
+            "image": "https://media.kitsu.app/anime/poster_images/13929/small.jpg",
+            "rating": 7,
+            "genres": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Sword Art Online",
+            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of \"NerveGear\" technology, players can control their avatars within the game using nothing but their own thoughts.\nKazuto Kirigaya, nicknamed \"Kirito,\" is among the lucky few enthusiasts who get their hands on the first shipment of the game. He logs in to find himself, with ten-thousand others, in the scenic and elaborate world of Aincrad, one full of fantastic medieval weapons and gruesome monsters. However, in a cruel turn of events, the players soon realize they cannot log out; the game's creator has trapped them in his new world until they complete all one hundred levels of the game.\nIn order to escape Aincrad, Kirito will now have to interact and cooperate with his fellow players. Some are allies, while others are foes, like Asuna Yuuki, who commands the leading group attempting to escape from the ruthless game. To make matters worse, Sword Art Online is not all fun and games: if they die in Aincrad, they die in real life. Kirito must adapt to his new reality, fight for his survival, and hopefully break free from his virtual hell.\n[Written by MAL Rewrite]",
+            "image": "https://media.kitsu.app/anime/poster_images/6589/small.jpg",
+            "rating": 7,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Game",
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Frieren: Beyond Journey's End",
+            "description": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.\n\n(Source: Crunchyroll)",
+            "image": "https://media.kitsu.app/anime/46474/poster_image/small-2dc1165f5acd773939c7befb0949d258.jpeg",
+            "rating": 10,
+            "genres": [
+                "Adventure",
+                "Fantasy",
+                "Slice of Life",
+                "Drama",
+                "Shounen"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Tower of God",
+            "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
+            "image": "https://media.kitsu.app/anime/43004/poster_image/small-5b2179ccf50f2330e1e0f5196d008c7c.jpeg",
+            "rating": 6,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Drama",
+                "Shounen",
+                "Supernatural"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Jujutsu Kaisen",
+            "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)",
+            "image": "https://media.kitsu.app/anime/42765/poster_image/small-08cb06fd4250de4d435041861d026a8c.jpeg",
+            "rating": 8,
+            "genres": [
+                "Action",
+                "Supernatural",
+                "Drama",
+                "Fantasy",
+                "Shounen",
+                "School"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Dandadan",
+            "description": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\nThe story of the occult battle and adolescence starts!\n\n(Source: Crunchyroll)\n\nNotes:\n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024.\n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on September 13, 2024. The regular TV broadcast begins October 2024.",
+            "image": "https://media.kitsu.app/anime/48269/poster_image/small-d19c18a776aa6d045ff51e054e5564db.jpeg",
+            "rating": 8,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Supernatural",
+                "Romance",
+                "Shounen"
+            ]
+        }
+    ]
+}
