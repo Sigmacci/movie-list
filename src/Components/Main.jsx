@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../Styles/Main.css';
-import {useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Card from 'react-bootstrap/Card';
 import AnimeList from './AnimeList';
 import SearchBar from './SearchBar';
@@ -23,10 +23,10 @@ function Main() {
                     {showAddForm ? null : (
                         <>
                             <AddButton setShowAddForm={setShowAddForm} />
-                            <Button variant="primary" className="ms-2" onClick={() => setSort(sort === 0 ? 1 : 0)}>
+                            <Button variant="primary" className="ms-2" onClick={() => setSort(sort === 1 ? 0 : 1)}>
                                 <FontAwesomeIcon icon={faArrowDownAZ}></FontAwesomeIcon> Sort
                             </Button>
-                            <Button variant="primary" className="ms-2" onClick={() => setSort(sort === 0 ? 2 : 0)}>
+                            <Button variant="primary" className="ms-2" onClick={() => setSort(sort === 2 ? 0 : 2)}>
                                 <FontAwesomeIcon icon={faArrowUpAZ}></FontAwesomeIcon> Sort
                             </Button>
                         </>
@@ -88,6 +88,14 @@ function MainContent({ data, setData, searchQuery, sort }) {
                     <h2>Please load a file first.</h2>
                 </div>
             </>
+        );
+    }
+
+    if (filteredData.length === 0) {
+        return (
+            <div className="alert alert-primary mt-2" role="alert">
+                <h2>No results found.</h2>
+            </div>
         );
     }
 
